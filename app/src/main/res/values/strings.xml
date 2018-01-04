@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Car List</string>
+    <string name="hint_year">year</string>
+    <string name="make">make</string>
+    <string name="btn_batal">batal</string>
+    <string name="btn_car_add">add</string>
+    <string name="model">model</string>
+</resources>
